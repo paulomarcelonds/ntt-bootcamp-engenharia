@@ -1,0 +1,5 @@
+print(2 + 10)
+print(2.5 + 59 + 89.90)
+print(True)
+print(False)
+print('python')
